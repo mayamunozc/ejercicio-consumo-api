@@ -3,6 +3,13 @@ body{
 }
 
 .quote{
-    padding: 1erm;
+    padding: 1rem;
     border: 1px solid #000;
+  
+   
+
+}
+
+.quote .text{
+    font-style: italic;
 }
